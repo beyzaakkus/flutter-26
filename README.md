@@ -1,4 +1,20 @@
 # flutter-26
 # Oyun ve Uygulama Akademisi
+# Takım İsmi
+
 # Takım üyeleri:
-Beyza Akkuş, Mikdat Ramazan Köşker, Nida Görkem Aktaş, Eshagh Shahnavazi, Sıla Soysal
+Nida Görkem Aktaş: Product Owner
+Sıla Soysal: Scrum Master
+Beyza Akkuş: Developer
+Mikdat Ramazan Köşker: Developer
+# Ürün İsmi
+
+# Ürün Açıklaması
+
+# Ürün Özellikleri
+
+# Hedef Kitle
+
+# Product Backlog Url 
+
+# SPRINT 1
