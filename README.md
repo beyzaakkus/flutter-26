@@ -27,7 +27,7 @@ Roadmate, uzun ve orta vadeli hedefleri izlemeye, kişiselleştirmeye, geri bild
 - Girişimciler
 - Bir alışkanlık kazanmak ya da bırakmak isteyenler
 ## Product Backlog Url 
-https://docs.google.com/spreadsheets/d/1wFbn89JRsCTu5jDWtkIQo-aaT2a0rxQgqyRqkcvJwP4/edit?usp=drivesdk (pzt akşama kadar tamam olacak)
+[product backlog](https://docs.google.com/spreadsheets/d/1wFbn89JRsCTu5jDWtkIQo-aaT2a0rxQgqyRqkcvJwP4/edit?usp=drivesdk) (pzt akşama kadar tamam olacak)
 # SPRINT 1
 - **Sprint Notları**: User story ve backloglar linki verilen spreadsheets dosyasında atanan puanlarla beraber bulunmaktadır. 
 - **Sprint içinde tamamlanması tahmin edilen puan:** 
