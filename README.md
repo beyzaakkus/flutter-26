@@ -33,7 +33,7 @@ https://docs.google.com/spreadsheets/d/1wFbn89JRsCTu5jDWtkIQo-aaT2a0rxQgqyRqkcvJ
 - **Sprint içinde tamamlanması tahmin edilen puan:** 
 - **Puan tamamlama mantığı:** Toplamda proje içerisinde ... puanlık backlog bulunmaktadır. Zaman uygunluğu, bayram ve vize dönemleri dolayısıyla ilk sprinte az backlog atanması gerektiğine ekipçe karar verildi. 
 - **Backlog düzeni ve Story seçimleri:**
-- **Daily Scrum:** Uygun zamana göre birkaç günde bir toplantı ve whatsapp ile discord üzerinden haberleşme ile yapılmasına karar verilmiştir. Kayıtları [sprint 1 daily scrum kayıtları](www.google.com) bulabilirsiniz.
+- **Daily Scrum:** Uygun zamana göre birkaç günde bir toplantı ve whatsapp ile discord üzerinden haberleşme ile yapılmasına karar verilmiştir. Kayıtları [sprint 1 daily scrum kayıtları](https://docs.google.com/document/d/1hdzpGAVeC6EmE8pe0HFvwhgkNNoh6Qsz6pPEhqvSmdA/edit?usp=drivesdk) bulabilirsiniz.
 - **Ürün Durumu:** 
 
 - **Sprint Review:** Sprint'e atanan her backlog tamamlanamadığından kalanlar bir sonraki sprinte devredilmiştir. Örnek uygulamaların kodları incelenerek hızlı bir şekilde kodlama kısmına adapte olmaya karar verilmiştir. Zaman kısıtından ötürü düşünülen birkaç özellik MVP sonrasına gelecek planı olarak aktarılmıştır. 
