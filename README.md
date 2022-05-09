@@ -34,7 +34,7 @@ Roadmate, uzun ve orta vadeli hedefleri izlemeye, kişiselleştirmeye, geri bild
 - **Puan tamamlama mantığı:** Toplamda proje içerisinde ... puanlık backlog bulunmaktadır. Zaman uygunluğu, bayram ve vize dönemleri dolayısıyla ilk sprinte az backlog atanması gerektiğine ekipçe karar verildi. 
 - **Backlog düzeni ve Story seçimleri:**
 - **Daily Scrum:** Uygun zamana göre birkaç günde bir toplantı ve whatsapp ile discord üzerinden haberleşme ile yapılmasına karar verilmiştir. Kayıtları [sprint 1 daily scrum kayıtları](https://docs.google.com/document/d/1hdzpGAVeC6EmE8pe0HFvwhgkNNoh6Qsz6pPEhqvSmdA/edit?usp=drivesdk) bulabilirsiniz.
-- **Ürün Durumu:** 
+- **Ürün Durumu:**  ![TASARIM](https://drive.google.com/file/d/13_3eJyv2Xvmu_VLO43PJp7OxoN2UiShm/view?usp=drivesdk)  ![TASARIM 2](https://drive.google.com/file/d/13Rz7v9WfJN4VczV7nJfAtINjJMZ7TJcd/view?usp=drivesdk)
 
 - **Sprint Review:** Sprint'e atanan her backlog tamamlanamadığından kalanlar bir sonraki sprinte devredilmiştir. Örnek uygulamaların kodları incelenerek hızlı bir şekilde kodlama kısmına adapte olmaya karar verilmiştir. Zaman kısıtından ötürü düşünülen birkaç özellik MVP sonrasına gelecek planı olarak aktarılmıştır. 
 - **Sprint Retrospective**
