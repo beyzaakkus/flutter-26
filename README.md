@@ -35,8 +35,8 @@ Roadmate, uzun ve orta vadeli hedefleri izlemeye, kişiselleştirmeye, geri bild
 - **Backlog düzeni ve Story seçimleri:** Farklı tipte kullanıcılar ve genel hedef kitlesi düşünülerek user storyler hazırlanmıştır. Bu story'lere göre backlog hazırlanmıştır. Backlog'un ilk kısmı 1. Sprint'e ait ögeler içerir. 
 
 - **Daily Scrum:** Uygun zamana göre birkaç günde bir toplantı ve whatsapp ile discord üzerinden haberleşme ile yapılmasına karar verilmiştir. Kayıtları [sprint 1 daily scrum kayıtları](https://docs.google.com/document/d/1hdzpGAVeC6EmE8pe0HFvwhgkNNoh6Qsz6pPEhqvSmdA/edit?usp=drivesdk) bulabilirsiniz.
-- **Sprint Board Update:** Product backlog spreedsheet'inin ikinci sayfasında yer almaktadır. [product backlog] https://drive.google.com/file/d/1Hl8YE0HNcKD4N1XvsoY4R80Stu3pPMZT/view?usp=drivesdk
-- (https://docs.google.com/spreadsheets/d/1wFbn89JRsCTu5jDWtkIQo-aaT2a0rxQgqyRqkcvJwP4/edit?usp=drivesdk) 
+- **Sprint Board Update:** Product backlog spreedsheet'inin ikinci sayfasında yer almaktadır.[Product backlog](https://docs.google.com/spreadsheets/d/1wFbn89JRsCTu5jDWtkIQo-aaT2a0rxQgqyRqkcvJwP4/edit?usp=drivesdk) 
+- [1.sprint update ss linki](https://drive.google.com/file/d/1Hl8YE0HNcKD4N1XvsoY4R80Stu3pPMZT/view?usp=drivesdk) 
 
 - **Ürün Durumu:**  (https://drive.google.com/file/d/13_3eJyv2Xvmu_VLO43PJp7OxoN2UiShm/view?usp=drivesdk)  !(https://drive.google.com/file/d/13Rz7v9WfJN4VczV7nJfAtINjJMZ7TJcd/view?usp=drivesdk) 
 https://drive.google.com/file/d/1Hg7Km_SAWIimY4Cib5eXiM33YEN2NRDm/view?usp=drivesdk
