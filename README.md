@@ -40,6 +40,9 @@ Roadmate, uzun ve orta vadeli hedefleri izlemeye, kişiselleştirmeye, geri bild
 
 - **Ürün Durumu:**  [drive resim link 1](https://drive.google.com/file/d/13_3eJyv2Xvmu_VLO43PJp7OxoN2UiShm/view?usp=drivesdk)  [link 2](https://drive.google.com/file/d/13Rz7v9WfJN4VczV7nJfAtINjJMZ7TJcd/view?usp=drivesdk) 
 [link 3](https://drive.google.com/file/d/1Hg7Km_SAWIimY4Cib5eXiM33YEN2NRDm/view?usp=drivesdk) 
+![figma-page1](https://user-images.githubusercontent.com/81536252/168426186-a6c191ae-f548-43de-89a3-9cc4aa872b7f.PNG)
+![figma-page2](https://user-images.githubusercontent.com/81536252/168426187-881fb32f-3f11-45c9-b095-d3c18ee28808.PNG)
+
 - **Sprint Review:** Sprint'e atanan her backlog tamamlanamadığından kalanlar bir sonraki sprinte devredilmiştir(3 puanlık bir backlog yapılamamıştır). Örnek uygulamaların kodları incelenerek hızlı bir şekilde kodlama kısmına adapte olmaya karar verilmiştir. Zaman kısıtından ötürü düşünülen birkaç özellik MVP sonrasına gelecek planı olarak aktarılmıştır. 
 - **Sprint Retrospective**
   * Ekip içi buluşma ve iletişim artırılmalı
