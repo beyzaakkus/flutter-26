@@ -60,16 +60,14 @@ Roadmate, uzun ve orta vadeli hedefleri izlemeye, kişiselleştirmeye, geri bild
 
 <table>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/90112038/169898425-66d0d0d8-68ce-49cc-acfc-b976c6591783.png" width=270 height=480></td>
-    <td><img src="https://user-images.githubusercontent.com/90112038/169901990-cb774aa3-ea69-411c-8477-0a8be2a7b97f.png" width=270 height=480></td>
+    <td><img src="https://user-images.githubusercontent.com/90112038/169898425-66d0d0d8-68ce-49cc-acfc-b976c6591783.png" width=50% height=50%></td>
+    <td><img src="https://user-images.githubusercontent.com/90112038/169901990-cb774aa3-ea69-411c-8477-0a8be2a7b97f.png" width=50% height=50%></td>
   </tr>
  </table>
 
 https://user-images.githubusercontent.com/90112038/169898477-5593c05c-a484-4e4a-bcf3-49e28d217b4e.mov
 
 Login, Register (authentication) için firebase bağlantısı kuruldu.
-![WhatsApp Image 2022-05-23 at 11 33 47 PM (1)](https://user-images.githubusercontent.com/81536252/169902527-49179640-7ace-4f62-9817-f958849cf2e3.jpeg)
-![WhatsApp Image 2022-05-23 at 11 33 47 PM](https://user-images.githubusercontent.com/81536252/169902533-13c5875e-4acd-41e0-9db3-268fef893f2c.jpeg)
 - **Sprint Review:** Bu hafta atanan puanların ve görevlerin birazı tamamlanamamıştır. 
 - **Sprint Retrospective**
 Ne Yapmalıyız:
