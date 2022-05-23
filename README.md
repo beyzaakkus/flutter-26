@@ -51,20 +51,34 @@ Roadmate, uzun ve orta vadeli hedefleri izlemeye, kişiselleştirmeye, geri bild
 - **Diğer Notlar:** https://miro.com/app/board/uXjVO7qZ0qk=/ 
 
 # SPRINT 2
-- **Sprint Notları**:
-- **Sprint içinde tamamlanması tahmin edilen puan:**
-- **Puan tamamlama mantığı:**
+- **Sprint Notları**: Bu hafta pek ilerleme kaydedilmedi.
+- **Sprint içinde tamamlanması tahmin edilen puan:** 15
+- **Puan tamamlama mantığı:** Toplamda proje içerisinde 41 puanlık backlog bulunmaktadır. İlk sprintte 11 puan tamamlanması ön görülmüştü. Kalan iki sprinte 15'er puan atandı. 
 - **Backlog düzeni ve Story seçimleri:** Farklı tipte kullanıcılar ve genel hedef kitlesi düşünülerek user storyler hazırlanmıştır. Bu story'lere göre backlog hazırlanmıştır. Backlog'un ilk kısmı 1. Sprint'e ait ögeler içerir. 
-- **Daily Scrum:** Uygun zamana göre birkaç günde bir toplantı ve whatsapp ile discord üzerinden haberleşme ile yapılmasına karar verilmiştir. Kayıtları [sprint 1 daily scrum kayıtları](www.google.com) bulabilirsiniz.
+- **Daily Scrum:** Uygun zamana göre birkaç günde bir toplantı ve whatsapp ile discord üzerinden haberleşme ile yapılmasına karar verilmiştir. Kayıtları [sprint 2 daily scrum kayıtları](www.google.com) bulabilirsiniz.
 - **Ürün Durumu:** 
+- **Sprint Review:** Bu hafta atanan puanların ve görevlerin çok azı tamamlanmıştır. 
+- **Sprint Retrospective**
+Ne Yapmalıyız:
+Günlük beraber kod yazma toplantıları hem entegrasyonu iyileştirmek hem de takımın motivasyonunu arttırmak amaçlı
+Takıma ayırdığımız zamanı arttırmalıyız
 
+Ne Yapmayı Bırakmalıyız:
+Kodlardaki hataları bireysel çözümlemeye çalışmak
+Yazılan kodların çevrimdışı tutulması
+
+Ne Yapmaya Devam Etmeliyiz:
+Bootcamp’i bitirme motivasyonu
+
+- **Diğer Notlar:** 
+- **Sprint Review:**
 
 # SPRINT 3
 - **Sprint Notları**:
 - **Sprint içinde tamamlanması tahmin edilen puan:**
 - **Puan tamamlama mantığı:**
 - **Backlog düzeni ve Story seçimleri:**
-- **Daily Scrum:** Uygun zamana göre birkaç günde bir toplantı ve whatsapp ile discord üzerinden haberleşme ile yapılmasına karar verilmiştir. Kayıtları [sprint 1 daily scrum kayıtları](www.google.com) bulabilirsiniz.
+- **Daily Scrum:** Uygun zamana göre birkaç günde bir toplantı ve whatsapp ile discord üzerinden haberleşme ile yapılmasına karar verilmiştir. Kayıtları [sprint 3 daily scrum kayıtları](www.google.com) bulabilirsiniz.
 - **Ürün Durumu:** 
 - **Sprint Review:**
 - **Sprint Retrospective**
