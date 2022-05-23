@@ -70,8 +70,7 @@ Yazılan kodların çevrimdışı tutulması
 Ne Yapmaya Devam Etmeliyiz:
 Bootcamp’i bitirme motivasyonu
 
-- **Diğer Notlar:** 
-- **Sprint Review:**
+- **Diğer Notlar:** N/A
 
 # SPRINT 3
 - **Sprint Notları**:
