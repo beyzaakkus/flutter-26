@@ -76,7 +76,7 @@ Yazılan kodların çevrimdışı tutulması
 Ne Yapmaya Devam Etmeliyiz:
 Bootcamp’i bitirme motivasyonu
 
-- **Diğer Notlar:** N/A
+- **Diğer Notlar: https://miro.com/app/board/uXjVO7qZ0qk=/ 
 
 # SPRINT 3
 - **Sprint Notları**:
