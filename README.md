@@ -57,7 +57,11 @@ Roadmate, uzun ve orta vadeli hedefleri izlemeye, kişiselleştirmeye, geri bild
 - **Backlog düzeni ve Story seçimleri:** Farklı tipte kullanıcılar ve genel hedef kitlesi düşünülerek user storyler hazırlanmıştır. Bu story'lere göre backlog hazırlanmıştır. Backlog'un ilk kısmı 1. Sprint'e ait ögeler içerir. 
 - **Daily Scrum:** Uygun zamana göre birkaç günde bir toplantı ve whatsapp ile discord üzerinden haberleşme ile yapılmasına karar verilmiştir. Kayıtları [sprint 2 daily scrum kayıtları](www.google.com) bulabilirsiniz.
 - **Ürün Durumu:** 
-![Simulator Screen Shot - iPhone 12 Pro Max - 2022-05-23 at 23 00 53](https://user-images.githubusercontent.com/90112038/169898425-66d0d0d8-68ce-49cc-acfc-b976c6591783.png) ![Sprint2android](https://user-images.githubusercontent.com/90112038/169901990-cb774aa3-ea69-411c-8477-0a8be2a7b97f.png) https://user-images.githubusercontent.com/90112038/169898477-5593c05c-a484-4e4a-bcf3-49e28d217b4e.mov
+![Simulator Screen Shot - iPhone 12 Pro Max - 2022-05-23 at 23 00 53](https://user-images.githubusercontent.com/90112038/169898425-66d0d0d8-68ce-49cc-acfc-b976c6591783.png) 
+
+![Sprint2android](https://user-images.githubusercontent.com/90112038/169901990-cb774aa3-ea69-411c-8477-0a8be2a7b97f.png) 
+
+https://user-images.githubusercontent.com/90112038/169898477-5593c05c-a484-4e4a-bcf3-49e28d217b4e.mov
 
 Login, Register (authentication) için firebase bağlantısı kuruldu.
 - **Sprint Review:** Bu hafta atanan puanların ve görevlerin birazı tamamlanamamıştır. 
