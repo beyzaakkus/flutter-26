@@ -51,13 +51,14 @@ Roadmate, uzun ve orta vadeli hedefleri izlemeye, kişiselleştirmeye, geri bild
 - **Diğer Notlar:** https://miro.com/app/board/uXjVO7qZ0qk=/ 
 
 # SPRINT 2
-- **Sprint Notları**: Bu hafta pek ilerleme kaydedilmedi.
-- **Sprint içinde tamamlanması tahmin edilen puan:** 15
+- **Sprint Notları**: [Product backlog](https://docs.google.com/spreadsheets/d/1wFbn89JRsCTu5jDWtkIQo-aaT2a0rxQgqyRqkcvJwP4/edit?usp=drivesdk) üzerinden ikinci sprint görülebilir.
+- **Sprint içinde tamamlanması tahmin edilen puan:** 15 + 3 (geçen haftanın)
 - **Puan tamamlama mantığı:** Toplamda proje içerisinde 41 puanlık backlog bulunmaktadır. İlk sprintte 11 puan tamamlanması ön görülmüştü. Kalan iki sprinte 15'er puan atandı. 
 - **Backlog düzeni ve Story seçimleri:** Farklı tipte kullanıcılar ve genel hedef kitlesi düşünülerek user storyler hazırlanmıştır. Bu story'lere göre backlog hazırlanmıştır. Backlog'un ilk kısmı 1. Sprint'e ait ögeler içerir. 
 - **Daily Scrum:** Uygun zamana göre birkaç günde bir toplantı ve whatsapp ile discord üzerinden haberleşme ile yapılmasına karar verilmiştir. Kayıtları [sprint 2 daily scrum kayıtları](www.google.com) bulabilirsiniz.
 - **Ürün Durumu:** 
-- **Sprint Review:** Bu hafta atanan puanların ve görevlerin çok azı tamamlanmıştır. 
+
+- **Sprint Review:** Bu hafta atanan puanların ve görevlerin birazı tamamlanamamıştır. 
 - **Sprint Retrospective**
 Ne Yapmalıyız:
 Günlük beraber kod yazma toplantıları hem entegrasyonu iyileştirmek hem de takımın motivasyonunu arttırmak amaçlı
