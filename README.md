@@ -68,6 +68,8 @@ Roadmate, uzun ve orta vadeli hedefleri izlemeye, kişiselleştirmeye, geri bild
 https://user-images.githubusercontent.com/90112038/169898477-5593c05c-a484-4e4a-bcf3-49e28d217b4e.mov
 
 Login, Register (authentication) için firebase bağlantısı kuruldu.
+![WhatsApp Image 2022-05-23 at 11 33 47 PM (1)](https://user-images.githubusercontent.com/81536252/169902527-49179640-7ace-4f62-9817-f958849cf2e3.jpeg)
+![WhatsApp Image 2022-05-23 at 11 33 47 PM](https://user-images.githubusercontent.com/81536252/169902533-13c5875e-4acd-41e0-9db3-268fef893f2c.jpeg)
 - **Sprint Review:** Bu hafta atanan puanların ve görevlerin birazı tamamlanamamıştır. 
 - **Sprint Retrospective**
 Ne Yapmalıyız:
