@@ -61,7 +61,7 @@ Roadmate, uzun ve orta vadeli hedefleri izlemeye, kişiselleştirmeye, geri bild
 <table>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/90112038/169898425-66d0d0d8-68ce-49cc-acfc-b976c6591783.png" width=50% height=50%></td>
-    <td><img src="https://user-images.githubusercontent.com/90112038/169901990-cb774aa3-ea69-411c-8477-0a8be2a7b97f.png" width=379 height=821></td>
+    <td><img src="https://user-images.githubusercontent.com/90112038/169901990-cb774aa3-ea69-411c-8477-0a8be2a7b97f.png" width=479 height=821></td>
   </tr>
  </table>
 
