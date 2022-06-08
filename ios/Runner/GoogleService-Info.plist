@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>397301245127-loafnm0sojbdut7t2h83g7asud5nog99.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.397301245127-loafnm0sojbdut7t2h83g7asud5nog99</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>397301245127-sr3agtmggc661vf3bbobh41lqahc110i.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBMf6ecyeF2Ik81Orzwih8J81DcKgl7kJ8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>397301245127</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.goalSettingApp</string>
+	<key>PROJECT_ID</key>
+	<string>goal-setting-app-dfb52</string>
+	<key>STORAGE_BUCKET</key>
+	<string>goal-setting-app-dfb52.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:397301245127:ios:0e8a97a280c25e6be24ae2</string>
+</dict>
+</plist>
