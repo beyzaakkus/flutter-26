@@ -1,34 +1,49 @@
 {
   "project_info": {
-    "project_number": "930787300036",
-    "project_id": "roadmate-ae99a",
-    "storage_bucket": "roadmate-ae99a.appspot.com"
+    "project_number": "397301245127",
+    "project_id": "goal-setting-app-dfb52",
+    "storage_bucket": "goal-setting-app-dfb52.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:930787300036:android:c695d99599ad1d1af82f91",
+        "mobilesdk_app_id": "1:397301245127:android:b227ac94926f6a43e24ae2",
         "android_client_info": {
-          "package_name": "com.example.flutter_proje"
+          "package_name": "com.example.goal_setting_app"
         }
       },
       "oauth_client": [
         {
-          "client_id": "930787300036-03u1i4k8jm60l6b2frnn517n7g83smq9.apps.googleusercontent.com",
+          "client_id": "397301245127-sr3agtmggc661vf3bbobh41lqahc110i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.goal_setting_app",
+            "certificate_hash": "a0317aecd74b2ec9187329b225018b1aad07f1ac"
+          }
+        },
+        {
+          "client_id": "397301245127-aulrff9s5rm2703m0fgdohpjbktm3irj.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCxBY_2xWv3hyHdqIYi5pRIdNiAqGEqNpQ"
+          "current_key": "AIzaSyCqFnQZqfH45CJ03vT_p_KCd7I9Cr94V5Q"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "930787300036-03u1i4k8jm60l6b2frnn517n7g83smq9.apps.googleusercontent.com",
+              "client_id": "397301245127-aulrff9s5rm2703m0fgdohpjbktm3irj.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "397301245127-loafnm0sojbdut7t2h83g7asud5nog99.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.goalSettingApp"
+              }
             }
           ]
         }
